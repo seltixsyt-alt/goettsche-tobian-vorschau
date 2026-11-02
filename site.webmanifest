@@ -1,0 +1,22 @@
+{
+  "name": "Göttsche Tobian GbR",
+  "short_name": "Göttsche Tobian",
+  "description": "Bioland-Familienbetrieb und Rinderzucht GTR in Schwedeneck",
+  "lang": "de",
+  "start_url": "/goettsche-tobian-vorschau/",
+  "display": "browser",
+  "background_color": "#fbf9f4",
+  "theme_color": "#16241a",
+  "icons": [
+    {
+      "src": "/goettsche-tobian-vorschau/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/goettsche-tobian-vorschau/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
